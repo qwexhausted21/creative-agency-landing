@@ -1,4 +1,4 @@
-<img width="403" height="855" alt="image" src="https://github.com/user-attachments/assets/7ab423ee-1072-43b7-ae8c-6d517330dad1" /># 💻 PixelFlow - Creative Agency Landing Page
+# 💻 PixelFlow - Creative Agency Landing Page
 
 Стильный одностраничный сайт для креативного агентства. Проект создан с упором на современный дизайн (Swiss Style), высокую скорость работы и плавные анимации.
 
@@ -29,9 +29,7 @@
 
 * <img width="402" height="854" alt="image" src="https://github.com/user-attachments/assets/986e47f9-beae-4183-9917-457713d5e530" />
 
-
 * <img width="420" height="870" alt="image" src="https://github.com/user-attachments/assets/702ac089-76de-400b-8f1e-77a376552ade" />
-
 
 * <img width="403" height="855" alt="image" src="https://github.com/user-attachments/assets/c87402cc-cadd-4ab3-b20f-c995d81640a9" />
 
